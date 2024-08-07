@@ -2,7 +2,7 @@ do the following in the data:
 1. show the total number of employees in the company
 2. show the total number of departments in the company
 3. show the department names of the company
-4. total number of employees in each company
+4. total number of employees in each department
 5. total number of employees in each state
 6. total number of employees in each state in each department
 7. minimum and maximum salary in each department and also sort the salary in ascending order
